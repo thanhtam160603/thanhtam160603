@@ -79,21 +79,6 @@ const nguyenThanhTam = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thanhtam160603&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4db87a&icon_color=4db87a&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtam160603&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4db87a&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=thanhtam160603&theme=dark&hide_border=true&background=0d1117&stroke=4db87a&ring=4db87a&fire=ff6b35&currStreakLabel=4db87a" />
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="center">
