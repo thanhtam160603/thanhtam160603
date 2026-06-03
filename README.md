@@ -63,7 +63,6 @@ const nguyenThanhTam = {
 
 | Project | Description | Live |
 |---------|-------------|------|
-| **SaleNetwork** | Real estate platform — property posting, agent profiles, real-time chat | [salenetwork.vn](https://salenetwork.vn) |
 | **IWE Farm** | Agri e-commerce — product listing, cart, order management | [iwefarm.com.vn](https://iwefarm.com.vn) |
 | **Haro Land** | Real estate platform — responsive UI, real-time chat via Socket.IO | [haroland.com](https://haroland.com) |
 
