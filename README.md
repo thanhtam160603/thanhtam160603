@@ -71,12 +71,11 @@ const nguyenThanhTam = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![CLARANS](https://github-readme-stats.vercel.app/api/pin/?username=thanhtam160603&repo=CLARANS-Clustering-Analysis&theme=dark&hide_border=true&bg_color=0d1117&title_color=4db87a&icon_color=4db87a)](https://github.com/thanhtam160603/CLARANS-Clustering-Analysis)
-[![Webtcgg](https://github-readme-stats.vercel.app/api/pin/?username=thanhtam160603&repo=Webtcgg&theme=dark&hide_border=true&bg_color=0d1117&title_color=4db87a&icon_color=4db87a)](https://github.com/thanhtam160603/Webtcgg)
-
-</div>
+| Project | Tech | Description | Link |
+|---------|------|-------------|------|
+| **CLARANS Clustering Analysis** | Python · Pandas · Scikit-learn | Customer clustering using CLARANS algorithm, with data preprocessing and visualization | [GitHub](https://github.com/thanhtam160603/CLARANS-Clustering-Analysis) |
+| **Webtcgg** | JavaScript | Web application project | [GitHub](https://github.com/thanhtam160603/Webtcgg) |
+| **CoffeInbed** | TypeScript | App project | [GitHub](https://github.com/thanhtam160603/CoffeInbed) |
 
 ---
 
@@ -90,7 +89,7 @@ const nguyenThanhTam = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtam160603&theme=dark&hide_border=true&background=0d1117&stroke=4db87a&ring=4db87a&fire=ff6b35&currStreakLabel=4db87a" />
+<img src="https://streak-stats.demolab.com?user=thanhtam160603&theme=dark&hide_border=true&background=0d1117&stroke=4db87a&ring=4db87a&fire=ff6b35&currStreakLabel=4db87a" />
 </div>
 
 ---
@@ -107,13 +106,3 @@ const nguyenThanhTam = {
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thanhtam160603&color=4db87a&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=100&section=footer" />
-
-</div>
