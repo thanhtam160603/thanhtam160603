@@ -39,19 +39,6 @@ Hiện đang học hỏi và phát triển kỹ năng trong lĩnh vực **fullst
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtam160603&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtam160603&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtam160603&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📬 Liên hệ
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.tam.580155)
